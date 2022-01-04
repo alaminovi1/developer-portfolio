@@ -55,7 +55,7 @@ h2{
 }
 #web-dev-experience{
     border-left: 7px solid;;
-    border-image: linear-gradient(blue, cyan);
+    border-image: linear-gradient(rgb(0, 255, 106), cyan);
     border-image-slice: 1;
 }
 #full-stack-experience{
